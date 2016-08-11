@@ -1,0 +1,16 @@
+<Qucs Dataset 0.0.18>
+<indep Pr1.V 1>
+  +1.80000000000e+00
+</indep>
+<indep V1.I 1>
+  +0.00000000000e+00
+</indep>
+<indep BatteryVoltage.V 1>
+  +1.80000000000e+00
+</indep>
+<indep _net1.V 1>
+  +2.22044604925e-16
+</indep>
+<indep _net0.V 1>
+  +1.80000000000e+00
+</indep>
